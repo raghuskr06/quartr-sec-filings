@@ -1,31 +1,9 @@
 {
-  "generated_at_utc": "2026-10-28T10:12:30.415634+00:00",
-  "total_companies": 6,
-  "successful": 6,
+  "generated_at_utc": "2026-10-28T10:15:40.585995+00:00",
+  "total_companies": 1,
+  "successful": 1,
   "failed": 0,
   "results": [
-    {
-      "ticker": "AAPL",
-      "company_name": "Apple Inc.",
-      "status": "success",
-      "filing_date": "2025-10-31",
-      "report_date": "2025-09-27",
-      "accession_number": "0000320193-25-000079",
-      "document_url": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
-      "pdf_path": "C:\\Users\\Shekhar Raghuvanshi\\quartr-sec-filings\\output\\AAPL_2025-10-31.pdf",
-      "error": null
-    },
-    {
-      "ticker": "META",
-      "company_name": "Meta Platforms, Inc.",
-      "status": "success",
-      "filing_date": "2026-01-29",
-      "report_date": "2025-12-31",
-      "accession_number": "0001628280-26-003942",
-      "document_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
-      "pdf_path": "C:\\Users\\Shekhar Raghuvanshi\\quartr-sec-filings\\output\\META_2026-01-29.pdf",
-      "error": null
-    },
     {
       "ticker": "GOOGL",
       "company_name": "Alphabet Inc.",
@@ -35,39 +13,6 @@
       "accession_number": "0001652044-26-000018",
       "document_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
       "pdf_path": "C:\\Users\\Shekhar Raghuvanshi\\quartr-sec-filings\\output\\GOOGL_2026-02-05.pdf",
-      "error": null
-    },
-    {
-      "ticker": "AMZN",
-      "company_name": "Amazon.com, Inc.",
-      "status": "success",
-      "filing_date": "2026-02-06",
-      "report_date": "2025-12-31",
-      "accession_number": "0001018724-26-000004",
-      "document_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
-      "pdf_path": "C:\\Users\\Shekhar Raghuvanshi\\quartr-sec-filings\\output\\AMZN_2026-02-06.pdf",
-      "error": null
-    },
-    {
-      "ticker": "NFLX",
-      "company_name": "Netflix, Inc.",
-      "status": "success",
-      "filing_date": "2026-01-23",
-      "report_date": "2025-12-31",
-      "accession_number": "0001065280-26-000034",
-      "document_url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528026000034/nflx-20251231.htm",
-      "pdf_path": "C:\\Users\\Shekhar Raghuvanshi\\quartr-sec-filings\\output\\NFLX_2026-01-23.pdf",
-      "error": null
-    },
-    {
-      "ticker": "GS",
-      "company_name": "The Goldman Sachs Group, Inc.",
-      "status": "success",
-      "filing_date": "2026-02-25",
-      "report_date": "2025-12-31",
-      "accession_number": "0000886982-26-000091",
-      "document_url": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
-      "pdf_path": "C:\\Users\\Shekhar Raghuvanshi\\quartr-sec-filings\\output\\GS_2026-02-25.pdf",
       "error": null
     }
   ]
