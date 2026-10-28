@@ -260,7 +260,6 @@ SEC filings often contain complex tables, styles, and other HTML elements. Playw
 
 Potential extensions include:
 
-- Adding support for more companies through configuration rather than code changes.
 - Adding retries and backoff for transient HTTP errors.
 - Validating generated PDFs more thoroughly.
 - Adding integration tests against controlled sample HTML filings.
